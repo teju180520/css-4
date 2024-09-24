@@ -1,0 +1,22 @@
+table{
+    border: 1px solid black;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+}
+.black{
+    background-color: black;
+    width: 20px;
+}
+.white{
+    background-color: white;
+    width:20px;
+}
+.black:hover{
+    background-color: aqua;
+    border: 1px solid black; 
+     }
+     .white:hover{
+        background-color: rgb(24, 108, 182);
+        border: 1px solid white;
+     }
